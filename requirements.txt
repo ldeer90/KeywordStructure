@@ -1,0 +1,6 @@
+asyncio
+streamlit
+google-generativeai
+pandas
+json  # Built-in module, not required in requirements.txt
+altair
